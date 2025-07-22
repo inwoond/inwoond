@@ -1,3 +1,6 @@
+[![Telegram](https://img.shields.io/badge/Telegram-@inwoond-blue?style=flat&logo=telegram)](https://t.me/inwoond)
+[![Email](https://img.shields.io/badge/Email-inwoond@gmail.com-red?style=flat&logo=gmail)](mailto:inwoond@gmail.com)
+
 ## Меня зовут Михаил
 
 💡 Я студент 6 курса МГТУ им. Баумана по направлению **Оптико-электронное приборостроение**.  
