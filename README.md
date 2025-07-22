@@ -46,7 +46,7 @@
 
 - 📍 Город: Москва  
 - 📧 Email: inwoond@gmail.com
-- 💬 Telegram: [@inwoond]((https://t.me/inwoond))  
+- 💬 Telegram: [inwoond]((https://t.me/inwoond))  
 - 💼 Готов к стажировке / работе (Junior DS или ML Engineer)
 
 ---
