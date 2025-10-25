@@ -31,7 +31,7 @@
 
 | 📌 Проект | 🧠 Описание | 🔧 Технологии |
 |----------|-------------|---------------|
-| [severstal_cluster](./severstal_cluster) | Кластеризация производственных конфигураций и материалов по технологическим параметрам с оценкой качества | Pandas, scikit-learn, FAISS KMeans / MiniBatchKMeans, Agglomerative Clustering (Ward), DBSCAN, PCA, DecisionTree |
+| [severstal_cluster](./severstal_cluster) | Кластеризация производственных конфигураций и материалов по технологическим параметрам с оценкой качества | Pandas, scikit-learn, FAISS KMeans / MiniBatchKMeans, Agglomerative Clustering (Ward), DBSCAN, PCA, DecisionTree, Docker, Streamlit |
 | [Klassif_klientov](./Klassif_klientov) | Классификация клиентов по поведенческим признакам | RandomForest, CatBoost, SHAP, Optuna, MLP, Pipeline |
 | [Rabota_s_izobr](./Rabota_s_izobr) | Мультимодальное сопоставление изображения и текста | PyTorch, Transformers, CatBoost, Sentence-BERT, Optuna |
 | [Rabota_s_textom](./Rabota_s_textom) | Классификация токсичных комментариев | Tfidf, LogisticRegression, RandomForest, CatBoost, WordCloud |
