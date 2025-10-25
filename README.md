@@ -31,7 +31,7 @@
 
 | 📌 Проект | 🧠 Описание | 🔧 Технологии |
 |----------|-------------|---------------|
-| [Severstal Cluster](./severstal_cluster) | Кластеризация дефектов листового металла по эмбеддингам изображений | PyTorch, ResNet, scikit-learn, DBSCAN, PCA, Matplotlib |
+| [severstal_cluster](./severstal_cluster) | Кластеризация производственных конфигураций и материалов по технологическим параметрам (толщина, марка, тип операции и т.д.) с оценкой качества, интерпретируемости и скорости алгоритмов | Pandas, scikit-learn, FAISS KMeans / MiniBatchKMeans, Agglomerative Clustering (Ward), DBSCAN, PCA, DecisionTree |
 | [Klassif_klientov](./Klassif_klientov) | Классификация клиентов по поведенческим признакам | RandomForest, CatBoost, SHAP, Optuna, MLP, Pipeline |
 | [Rabota_s_izobr](./Rabota_s_izobr) | Мультимодальное сопоставление изображения и текста | PyTorch, Transformers, CatBoost, Sentence-BERT, Optuna |
 | [Rabota_s_textom](./Rabota_s_textom) | Классификация токсичных комментариев | Tfidf, LogisticRegression, RandomForest, CatBoost, WordCloud |
