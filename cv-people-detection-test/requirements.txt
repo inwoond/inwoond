@@ -1,0 +1,20 @@
+# Core dependencies
+ultralytics==8.0.220
+opencv-python==4.8.1.78
+numpy==1.24.3
+pillow==10.1.0
+
+# Web interface
+streamlit==1.28.1
+
+# Data processing
+pandas==2.1.3
+
+# Utilities
+tqdm==4.66.1
+loguru==0.7.2
+python-dotenv==1.0.0
+
+# PyTorch (CPU version for YOLO)
+torch==2.1.1
+torchvision==0.16.1
