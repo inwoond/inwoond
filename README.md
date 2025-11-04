@@ -31,7 +31,7 @@
 
 | 📌 Проект | 🧠 Описание | 🔧 Технологии |
 |----------|-------------|---------------|
-|[cv-people-detection-test]./cv-people-detection-test) | Автоматическая детекция людей на видео с покадровой обработкой, отрисовкой bounding boxes, генерацией статистики (CSV/JSON/MD) и веб-интерфейсом для загрузки и настройки параметров | Python 3.11, YOLOv8 (Ultralytics), OpenCV, Streamlit, Docker/Docker Compose, GitHub Actions CI/CD, pytest, NumPy, Pillow, tqdm, Loguru |
+| [cv-people-detection-test](./cv-people-detection-test)| Автоматическая детекция людей на видео с покадровой обработкой, отрисовкой bounding boxes, генерацией статистики (CSV/JSON/MD) и веб-интерфейсом для загрузки и настройки параметров | Python 3.11, YOLOv8 (Ultralytics), OpenCV, Streamlit, Docker/Docker Compose, GitHub Actions CI/CD, pytest, NumPy, Pillow, tqdm, Loguru |
 | [severstal_cluster](./severstal_cluster) | Кластеризация производственных конфигураций и материалов по технологическим параметрам с оценкой качества | Pandas, scikit-learn, FAISS KMeans / MiniBatchKMeans, Agglomerative Clustering (Ward), DBSCAN, PCA, DecisionTree, Docker, Streamlit |
 | [Klassif_klientov](./Klassif_klientov) | Классификация клиентов по поведенческим признакам | RandomForest, CatBoost, SHAP, Optuna, MLP, Pipeline |
 | [Rabota_s_izobr](./Rabota_s_izobr) | Мультимодальное сопоставление изображения и текста | PyTorch, Transformers, CatBoost, Sentence-BERT, Optuna |
